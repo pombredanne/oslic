@@ -1,6 +1,4 @@
-flagfile for signalling the used branch
-
-1 Introduction
+﻿1 Introduction
 1.1 Why
 Is there a need for another book about Open Source Software?  Let us address this question from the viewpoint of what we already know, what we instinctively believe and what we may have heard. Understanding this basis you may presume one or more of the following statements is correct or you may even have experienced similar perceptions from your peers or managers:
 
@@ -20,4 +18,3 @@ Is there a need for another book about Open Source Software?  Let us address thi
 Do these misconceptions sound familiar to you? Because they are all surely incorrect.
 
 Writing from the perspective of a large German company we most certainly do need another Open Source software book, not only to identify the common misconceptions, but to cater for the unique needs of a large Enterprise. The very size of the company brings its own problems in this case, the large number of diverse Open Source deployments in different contexts mean that case by case governance, a model that may work in small concerns is far from appropriate for our needs. It will lead to wasting of both time and money will stand only a small chance of success.
-
